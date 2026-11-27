@@ -1,0 +1,5 @@
+build/
+Inc/config.h
+*.o
+*.elf
+*.map
